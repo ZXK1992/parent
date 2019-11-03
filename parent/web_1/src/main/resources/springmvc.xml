@@ -17,7 +17,7 @@
 			    http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
     <!--组件扫描-->
-    <context:component-scan base-package="cn.itcast.controller"/>
+    <context:component-scan base-package="cn.zhu.controller"/>
 
     <!--处理器映射器，处理器适配器-->
     <mvc:annotation-driven/>
