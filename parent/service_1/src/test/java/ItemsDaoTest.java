@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import cn.zhu.domain.Items;
 import cn.zhu.service.ItemsService;
+=======
+import cn.itcast.domain.Items;
+import cn.itcast.service.ItemsService;
+>>>>>>> remotes/repo1/master
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
